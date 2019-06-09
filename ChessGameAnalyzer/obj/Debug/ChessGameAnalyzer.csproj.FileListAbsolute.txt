@@ -1,0 +1,7 @@
+C:\Users\Bartek\Documents\Visual Studio 2017\Projects\ChessGameAnalyzer\ChessGameAnalyzer\bin\Debug\ChessGameAnalyzer.exe.config
+C:\Users\Bartek\Documents\Visual Studio 2017\Projects\ChessGameAnalyzer\ChessGameAnalyzer\bin\Debug\ChessGameAnalyzer.exe
+C:\Users\Bartek\Documents\Visual Studio 2017\Projects\ChessGameAnalyzer\ChessGameAnalyzer\bin\Debug\ChessGameAnalyzer.pdb
+C:\Users\Bartek\Documents\Visual Studio 2017\Projects\ChessGameAnalyzer\ChessGameAnalyzer\obj\Debug\ChessGameAnalyzer.csprojAssemblyReference.cache
+C:\Users\Bartek\Documents\Visual Studio 2017\Projects\ChessGameAnalyzer\ChessGameAnalyzer\obj\Debug\ChessGameAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Documents\Visual Studio 2017\Projects\ChessGameAnalyzer\ChessGameAnalyzer\obj\Debug\ChessGameAnalyzer.exe
+C:\Users\Bartek\Documents\Visual Studio 2017\Projects\ChessGameAnalyzer\ChessGameAnalyzer\obj\Debug\ChessGameAnalyzer.pdb
