@@ -1,0 +1,1071 @@
+<gamelist>
+<game>
+<tags>
+<tag name = "Event" value = "Live Chess" />
+<tag name = "Site" value = "Chess.com" />
+<tag name = "Date" value = "2019.05.07" />
+<tag name = "Round" value = "-" />
+<tag name = "White" value = "chess_pawn00" />
+<tag name = "Black" value = "laskar_mataram" />
+<tag name = "Result" value = "0-1" />
+<tag name = "WhiteElo" value = "2225" />
+<tag name = "BlackElo" value = "2193" />
+<tag name = "TimeControl" value = "300" />
+<tag name = "Termination" value = "laskar_mataram won by checkmate" />
+<tag name = "variant" value = "Standard Chess" />
+<tag name = "EndTime" value = "8:09:47 PDT" />
+</tags>
+<moves>
+d2d4 d7d5 c2c4 e7e6 g1f3 g8f6 g2g3 a7a6 c4d5 e6d5 f1g2 f8d6 e1g1 e8g8 b1c3 c7c6 c1f4 d6f4 g3f4 b8d7 e2e3 f8e8 a1c1 f6e4 c3e4 d5e4 f3e5 d7f6 d1c2 c8f5 b2b4 d8e7 c2c5 a8d8 a2a4 d8d5 c5c3 f6h5 c1b1 f7f6 e5c4 f5c8 f1c1 g7g5 f4g5 f6g5 c4e5 h5f6 c3c4 c8e6 c4c3 h7h5 b1b2 h5h4 c1b1 h4h3 g2f1 f6g4 e5g4 e6g4 f1c4 e7f6 b4b5 a6b5 a4b5 f6f3 c4f1 e8f8 b5c6 b7c6 c3c6 d5f5 c6g6 g8h8 g6h6 h8g8 h6e6 f5f7 e6g6 f7g7 g6d6 g4d7 d6g3 f3h5 f1c4 g8h7 b2b7 f8f3 g3e5 h5g4 g1f1 g4g2 f1e1 g2f2 e1d1 d7a4 d1c1 f2c2 0-1
+</moves>
+<analysis engine = "Stockfish 8 64" bookDepth = "8" searchDepth = "20" variations = "3" >
+<move player = "white" >
+<played>c4d5</played>
+<evaluation move = "b1d2" value = "16" />
+<evaluation move = "f1g2" value = "5" />
+<evaluation move = "c4d5" value = "0" />
+</move>
+<move player = "black" >
+<played>e6d5</played>
+<evaluation move = "e6d5" value = "0" />
+<evaluation move = "f8b4" value = "-11" />
+<evaluation move = "f6d5" value = "-56" />
+</move>
+<move player = "white" >
+<played>f1g2</played>
+<evaluation move = "f1g2" value = "0" />
+<evaluation move = "b1c3" value = "-2" />
+<evaluation move = "c1f4" value = "-5" />
+</move>
+<move player = "black" >
+<played>f8d6</played>
+<evaluation move = "c7c6" value = "0" />
+<evaluation move = "f8e7" value = "0" />
+<evaluation move = "b8d7" value = "0" />
+<evaluation move = "f8d6" value = "0" />
+</move>
+<move player = "white" >
+<played>e1g1</played>
+<evaluation move = "e1g1" value = "8" />
+<evaluation move = "b1c3" value = "0" />
+<evaluation move = "c1g5" value = "0" />
+</move>
+<move player = "black" >
+<played>e8g8</played>
+<evaluation move = "e8g8" value = "0" />
+<evaluation move = "h7h6" value = "-2" />
+<evaluation move = "c7c6" value = "-4" />
+</move>
+<move player = "white" >
+<played>b1c3</played>
+<evaluation move = "c1g5" value = "2" />
+<evaluation move = "b1c3" value = "-2" />
+<evaluation move = "f3e5" value = "-5" />
+</move>
+<move player = "black" >
+<played>c7c6</played>
+<evaluation move = "b8d7" value = "0" />
+<evaluation move = "c7c6" value = "0" />
+<evaluation move = "h7h6" value = "0" />
+</move>
+<move player = "white" >
+<played>c1f4</played>
+<evaluation move = "f3d2" value = "9" />
+<evaluation move = "e2e4" value = "3" />
+<evaluation move = "f3e5" value = "-6" />
+<evaluation move = "c1f4" value = "-29" />
+</move>
+<move player = "black" >
+<played>d6f4</played>
+<evaluation move = "d6f4" value = "29" />
+<evaluation move = "d6e7" value = "0" />
+<evaluation move = "d6b4" value = "-2" />
+</move>
+<move player = "white" >
+<played>g3f4</played>
+<evaluation move = "g3f4" value = "-31" />
+<evaluation move = "f3e5" value = "-395" />
+<evaluation move = "f3d2" value = "-411" />
+</move>
+<move player = "black" >
+<played>b8d7</played>
+<evaluation move = "f6e8" value = "46" />
+<evaluation move = "f8e8" value = "37" />
+<evaluation move = "b8d7" value = "37" />
+</move>
+<move player = "white" >
+<played>e2e3</played>
+<evaluation move = "c3a4" value = "-39" />
+<evaluation move = "a1c1" value = "-45" />
+<evaluation move = "e2e3" value = "-50" />
+</move>
+<move player = "black" >
+<played>f8e8</played>
+<evaluation move = "d7b6" value = "49" />
+<evaluation move = "f6e8" value = "42" />
+<evaluation move = "f8e8" value = "40" />
+</move>
+<move player = "white" >
+<played>a1c1</played>
+<evaluation move = "g1h1" value = "-46" />
+<evaluation move = "d1c2" value = "-48" />
+<evaluation move = "f3e5" value = "-53" />
+<evaluation move = "a1c1" value = "-57" />
+</move>
+<move player = "black" >
+<played>f6e4</played>
+<evaluation move = "d7f8" value = "52" />
+<evaluation move = "g7g6" value = "38" />
+<evaluation move = "d7b6" value = "37" />
+<evaluation move = "f6e4" value = "6" />
+</move>
+<move player = "white" >
+<played>c3e4</played>
+<evaluation move = "c3e4" value = "0" />
+<evaluation move = "d1b3" value = "-37" />
+<evaluation move = "f3e5" value = "-52" />
+</move>
+<move player = "black" >
+<played>d5e4</played>
+<evaluation move = "d5e4" value = "0" />
+<evaluation move = "e8e4" value = "-90" />
+<evaluation move = "d7b6" value = "-370" />
+</move>
+<move player = "white" >
+<played>f3e5</played>
+<evaluation move = "f3d2" value = "-11" />
+<evaluation move = "f3e5" value = "-17" />
+<evaluation move = "f3g5" value = "-62" />
+</move>
+<move player = "black" >
+<played>d7f6</played>
+<evaluation move = "d7f6" value = "21" />
+<evaluation move = "d8h4" value = "0" />
+<evaluation move = "d7e5" value = "-17" />
+</move>
+<move player = "white" >
+<played>d1c2</played>
+<evaluation move = "d1b3" value = "-20" />
+<evaluation move = "d1c2" value = "-30" />
+<evaluation move = "f2f3" value = "-41" />
+<evaluation move = "a2a4" value = "-43" />
+</move>
+<move player = "black" >
+<played>c8f5</played>
+<evaluation move = "c8f5" value = "43" />
+<evaluation move = "c8e6" value = "24" />
+<evaluation move = "g7g6" value = "18" />
+</move>
+<move player = "white" >
+<played>b2b4</played>
+<evaluation move = "f1e1" value = "-38" />
+<evaluation move = "a2a3" value = "-43" />
+<evaluation move = "c2b3" value = "-45" />
+<evaluation move = "b2b4" value = "-52" />
+</move>
+<move player = "black" >
+<played>d8e7</played>
+<evaluation move = "f6d5" value = "56" />
+<evaluation move = "d8e7" value = "44" />
+<evaluation move = "g7g6" value = "37" />
+</move>
+<move player = "white" >
+<played>c2c5</played>
+<evaluation move = "c2b3" value = "-24" />
+<evaluation move = "c2c5" value = "-57" />
+<evaluation move = "a2a4" value = "-62" />
+</move>
+<move player = "black" >
+<played>a8d8</played>
+<evaluation move = "e7e6" value = "66" />
+<evaluation move = "f6d5" value = "0" />
+<evaluation move = "g7g6" value = "0" />
+<evaluation move = "a8d8" value = "-24" />
+</move>
+<move player = "white" >
+<played>a2a4</played>
+<evaluation move = "e5c6" value = "73" />
+<evaluation move = "c5e7" value = "0" />
+<evaluation move = "e5c4" value = "-14" />
+<evaluation move = "a2a4" value = "-15" />
+</move>
+<move player = "black" >
+<played>d8d5</played>
+<evaluation move = "e7e6" value = "29" />
+<evaluation move = "f6d5" value = "0" />
+<evaluation move = "f5e6" value = "-18" />
+<evaluation move = "d8d5" value = "-27" />
+</move>
+<move player = "white" >
+<played>c5c3</played>
+<evaluation move = "c5e7" value = "37" />
+<evaluation move = "c5a7" value = "0" />
+<evaluation move = "c5c3" value = "-26" />
+</move>
+<move player = "black" >
+<played>f6h5</played>
+<evaluation move = "e7e6" value = "46" />
+<evaluation move = "e8d8" value = "37" />
+<evaluation move = "f6d7" value = "26" />
+<evaluation move = "f6h5" value = "0" />
+</move>
+<move player = "white" >
+<played>c1b1</played>
+<evaluation move = "c3b3" value = "6" />
+<evaluation move = "c3b2" value = "-10" />
+<evaluation move = "c3c2" value = "-22" />
+<evaluation move = "c1b1" value = "-37" />
+</move>
+<move player = "black" >
+<played>f7f6</played>
+<evaluation move = "e7e6" value = "1" />
+<evaluation move = "e8c8" value = "0" />
+<evaluation move = "f7f6" value = "0" />
+</move>
+<move player = "white" >
+<played>e5c4</played>
+<evaluation move = "e5c4" value = "0" />
+<evaluation move = "e5c6" value = "-100" />
+<evaluation move = "b4b5" value = "-132" />
+</move>
+<move player = "black" >
+<played>f5c8</played>
+<evaluation move = "e7e6" value = "0" />
+<evaluation move = "e7d8" value = "-39" />
+<evaluation move = "e7c7" value = "-42" />
+<evaluation move = "f5c8" value = "-120" />
+</move>
+<move player = "white" >
+<played>f1c1</played>
+<evaluation move = "c4b6" value = "116" />
+<evaluation move = "b4b5" value = "103" />
+<evaluation move = "f1c1" value = "73" />
+</move>
+<move player = "black" >
+<played>g7g5</played>
+<evaluation move = "e7d8" value = "-62" />
+<evaluation move = "d5d8" value = "-83" />
+<evaluation move = "c8e6" value = "-100" />
+<evaluation move = "g7g5" value = "-137" />
+</move>
+<move player = "white" >
+<played>f4g5</played>
+<evaluation move = "c4b6" value = "135" />
+<evaluation move = "f4f5" value = "27" />
+<evaluation move = "f4g5" value = "-11" />
+</move>
+<move player = "black" >
+<played>f6g5</played>
+<evaluation move = "d5g5" value = "30" />
+<evaluation move = "c8e6" value = "-25" />
+<evaluation move = "c8d7" value = "-30" />
+<evaluation move = "f6g5" value = "-162" />
+</move>
+<move player = "white" >
+<played>c4e5</played>
+<evaluation move = "c4b6" value = "181" />
+<evaluation move = "b4b5" value = "122" />
+<evaluation move = "c3b3" value = "111" />
+<evaluation move = "c4e5" value = "36" />
+</move>
+<move player = "black" >
+<played>h5f6</played>
+<evaluation move = "h5f6" value = "-42" />
+<evaluation move = "c8f5" value = "-146" />
+<evaluation move = "d5d6" value = "-199" />
+</move>
+<move player = "white" >
+<played>c3c4</played>
+<evaluation move = "f2f3" value = "52" />
+<evaluation move = "c3b2" value = "50" />
+<evaluation move = "b4b5" value = "40" />
+<evaluation move = "c3c4" value = "23" />
+</move>
+<move player = "black" >
+<played>c8e6</played>
+<evaluation move = "c8e6" value = "-22" />
+<evaluation move = "c8f5" value = "-27" />
+<evaluation move = "e8d8" value = "-36" />
+</move>
+<move player = "white" >
+<played>c4c3</played>
+<evaluation move = "c4e2" value = "27" />
+<evaluation move = "c4c2" value = "11" />
+<evaluation move = "c4c3" value = "0" />
+</move>
+<move player = "black" >
+<played>h7h5</played>
+<evaluation move = "e6c8" value = "0" />
+<evaluation move = "e8f8" value = "-31" />
+<evaluation move = "h7h5" value = "-31" />
+<evaluation move = "h7h6" value = "-34" />
+</move>
+<move player = "white" >
+<played>b1b2</played>
+<evaluation move = "f2f3" value = "17" />
+<evaluation move = "b1b2" value = "16" />
+<evaluation move = "c3c2" value = "0" />
+</move>
+<move player = "black" >
+<played>h5h4</played>
+<evaluation move = "e7h7" value = "-23" />
+<evaluation move = "g5g4" value = "-39" />
+<evaluation move = "h5h4" value = "-52" />
+</move>
+<move player = "white" >
+<played>c1b1</played>
+<evaluation move = "f2f3" value = "43" />
+<evaluation move = "c3c2" value = "26" />
+<evaluation move = "f2f4" value = "26" />
+<evaluation move = "c1b1" value = "0" />
+</move>
+<move player = "black" >
+<played>h4h3</played>
+<evaluation move = "h4h3" value = "0" />
+<evaluation move = "e7h7" value = "0" />
+<evaluation move = "d5d8" value = "-18" />
+</move>
+<move player = "white" >
+<played>g2f1</played>
+<evaluation move = "g2f1" value = "0" />
+<evaluation move = "g2h1" value = "-36" />
+<evaluation move = "b4b5" value = "-144" />
+</move>
+<move player = "black" >
+<played>f6g4</played>
+<evaluation move = "f6d7" value = "0" />
+<evaluation move = "e7h7" value = "-2" />
+<evaluation move = "e7f8" value = "-18" />
+<evaluation move = "f6g4" value = "-41" />
+</move>
+<move player = "white" >
+<played>e5g4</played>
+<evaluation move = "e5g4" value = "56" />
+<evaluation move = "b4b5" value = "0" />
+<evaluation move = "b2d2" value = "-45" />
+</move>
+<move player = "black" >
+<played>e6g4</played>
+<evaluation move = "e6g4" value = "-47" />
+<evaluation move = "g8h7" value = "-508" />
+<evaluation move = "g8g7" value = "-514" />
+</move>
+<move player = "white" >
+<played>f1c4</played>
+<evaluation move = "b4b5" value = "44" />
+<evaluation move = "f1c4" value = "0" />
+<evaluation move = "b1c1" value = "0" />
+</move>
+<move player = "black" >
+<played>e7f6</played>
+<evaluation move = "e7f7" value = "0" />
+<evaluation move = "e7d7" value = "-129" />
+<evaluation move = "e7g7" value = "-130" />
+<evaluation move = "e7f6" value = "-187" />
+</move>
+<move player = "white" >
+<played>b4b5</played>
+<evaluation move = "c4d5" value = "185" />
+<evaluation move = "c3c1" value = "0" />
+<evaluation move = "c3e1" value = "0" />
+<evaluation move = "b4b5" value = "0" />
+</move>
+<move player = "black" >
+<played>a6b5</played>
+<evaluation move = "f6f3" value = "0" />
+<evaluation move = "g4e6" value = "0" />
+<evaluation move = "e8e7" value = "-32" />
+<evaluation move = "a6b5" value = "-178" />
+</move>
+<move player = "white" >
+<played>a4b5</played>
+<evaluation move = "c4d5" value = "182" />
+<evaluation move = "a4b5" value = "0" />
+<evaluation move = "c4f1" value = "-101" />
+</move>
+<move player = "black" >
+<played>f6f3</played>
+<evaluation move = "f6f3" value = "102" />
+<evaluation move = "g4e6" value = "0" />
+<evaluation move = "g8h7" value = "-16" />
+</move>
+<move player = "white" >
+<played>c4f1</played>
+<evaluation move = "c4f1" value = "-120" />
+<evaluation move = "c4d5" value = "mate -2" />
+<evaluation move = "b5b6" value = "mate -1" />
+</move>
+<move player = "black" >
+<played>e8f8</played>
+<evaluation move = "c6c5" value = "151" />
+<evaluation move = "g4h5" value = "0" />
+<evaluation move = "g4e6" value = "0" />
+<evaluation move = "e8f8" value = "0" />
+</move>
+<move player = "white" >
+<played>b5c6</played>
+<evaluation move = "b5c6" value = "0" />
+<evaluation move = "c3c4" value = "0" />
+<evaluation move = "c3b3" value = "0" />
+</move>
+<move player = "black" >
+<played>b7c6</played>
+<evaluation move = "g4h5" value = "0" />
+<evaluation move = "g4e6" value = "0" />
+<evaluation move = "g4c8" value = "0" />
+<evaluation move = "b7c6" value = "-102" />
+</move>
+<move player = "white" >
+<played>c3c6</played>
+<evaluation move = "c3c6" value = "122" />
+<evaluation move = "c3c2" value = "0" />
+<evaluation move = "c3c4" value = "0" />
+</move>
+<move player = "black" >
+<played>d5f5</played>
+<evaluation move = "d5d7" value = "-101" />
+<evaluation move = "f3f7" value = "-356" />
+<evaluation move = "d5f5" value = "-492" />
+</move>
+<move player = "white" >
+<played>c6g6</played>
+<evaluation move = "c6g6" value = "493" />
+<evaluation move = "c6c7" value = "95" />
+<evaluation move = "f1c4" value = "81" />
+</move>
+<move player = "black" >
+<played>g8h8</played>
+<evaluation move = "g8h8" value = "-499" />
+</move>
+<move player = "white" >
+<played>g6h6</played>
+<evaluation move = "g6h6" value = "505" />
+<evaluation move = "g6d6" value = "58" />
+<evaluation move = "g6e6" value = "52" />
+</move>
+<move player = "black" >
+<played>h8g8</played>
+<evaluation move = "h8g8" value = "-502" />
+</move>
+<move player = "white" >
+<played>h6e6</played>
+<evaluation move = "f1c4" value = "499" />
+<evaluation move = "b2c2" value = "97" />
+<evaluation move = "b1c1" value = "88" />
+<evaluation move = "h6e6" value = "66" />
+</move>
+<move player = "black" >
+<played>f5f7</played>
+<evaluation move = "g8h7" value = "-50" />
+<evaluation move = "g8g7" value = "-59" />
+<evaluation move = "g8h8" value = "-78" />
+<evaluation move = "f5f7" value = "-82" />
+</move>
+<move player = "white" >
+<played>e6g6</played>
+<evaluation move = "e6g6" value = "79" />
+<evaluation move = "e6a6" value = "69" />
+<evaluation move = "e6e5" value = "67" />
+</move>
+<move player = "black" >
+<played>f7g7</played>
+<evaluation move = "f7g7" value = "-91" />
+<evaluation move = "g8h8" value = "-100" />
+</move>
+<move player = "white" >
+<played>g6d6</played>
+<evaluation move = "g6h6" value = "90" />
+<evaluation move = "g6d6" value = "62" />
+<evaluation move = "g6a6" value = "60" />
+</move>
+<move player = "black" >
+<played>g4d7</played>
+<evaluation move = "g8h7" value = "-71" />
+<evaluation move = "g7f7" value = "-95" />
+<evaluation move = "g7d7" value = "-112" />
+<evaluation move = "g4d7" value = "-118" />
+</move>
+<move player = "white" >
+<played>d6g3</played>
+<evaluation move = "d6g3" value = "114" />
+<evaluation move = "f1c4" value = "111" />
+<evaluation move = "b2a2" value = "104" />
+</move>
+<move player = "black" >
+<played>f3h5</played>
+<evaluation move = "f3g3" value = "-108" />
+<evaluation move = "g8h7" value = "-130" />
+<evaluation move = "f8c8" value = "-137" />
+<evaluation move = "f3h5" value = "-160" />
+</move>
+<move player = "white" >
+<played>f1c4</played>
+<evaluation move = "f1e2" value = "180" />
+<evaluation move = "f1c4" value = "145" />
+<evaluation move = "b2b8" value = "129" />
+</move>
+<move player = "black" >
+<played>g8h7</played>
+<evaluation move = "g8h7" value = "-141" />
+<evaluation move = "g8h8" value = "-237" />
+<evaluation move = "f8f7" value = "-409" />
+</move>
+<move player = "white" >
+<played>b2b7</played>
+<evaluation move = "c4d5" value = "151" />
+<evaluation move = "c4e2" value = "140" />
+<evaluation move = "g1h1" value = "71" />
+<evaluation move = "b2b7" value = "-477" />
+</move>
+<move player = "black" >
+<played>f8f3</played>
+<evaluation move = "f8f3" value = "509" />
+<evaluation move = "f8f6" value = "-125" />
+<evaluation move = "f8f5" value = "-127" />
+</move>
+<move player = "white" >
+<played>g3e5</played>
+<evaluation move = "b1f1" value = "-513" />
+<evaluation move = "b7b2" value = "-528" />
+<evaluation move = "b1e1" value = "-528" />
+<evaluation move = "g3e5" value = "-672" />
+</move>
+<move player = "black" >
+<played>h5g4</played>
+<evaluation move = "h5g4" value = "697" />
+<evaluation move = "h5h4" value = "-73" />
+<evaluation move = "f3f8" value = "-277" />
+</move>
+<move player = "white" >
+<played>g1f1</played>
+<evaluation move = "e5g3" value = "-690" />
+<evaluation move = "g1f1" value = "-1318" />
+<evaluation move = "g1h1" value = "mate -1" />
+</move>
+<move player = "black" >
+<played>g4g2</played>
+<evaluation move = "g7f7" value = "2042" />
+<evaluation move = "g4g2" value = "1822" />
+<evaluation move = "f3e3" value = "0" />
+</move>
+<move player = "white" >
+<played>f1e1</played>
+<evaluation move = "f1e1" value = "-1838" />
+<evaluation move = "f1e2" value = "mate -3" />
+</move>
+<move player = "black" >
+<played>g2f2</played>
+<evaluation move = "g2f2" value = "2030" />
+<evaluation move = "g2g1" value = "2028" />
+<evaluation move = "f3f2" value = "266" />
+</move>
+<move player = "white" >
+<played>e1d1</played>
+<evaluation move = "e1d1" value = "-2050" />
+</move>
+<move player = "black" >
+<played>d7a4</played>
+<evaluation move = "f2g1" value = "2069" />
+<evaluation move = "d7a4" value = "879" />
+<evaluation move = "f2e3" value = "622" />
+</move>
+<move player = "white" >
+<played>d1c1</played>
+<evaluation move = "b1b3" value = "-909" />
+<evaluation move = "b7b3" value = "mate -20" />
+<evaluation move = "c4b3" value = "mate -8" />
+<evaluation move = "d1c1" value = "mate -1" />
+</move>
+<move player = "black" >
+<played>f2c2</played>
+<evaluation move = "f2c2" value = "mate 1" />
+<evaluation move = "f2e3" value = "mate 2" />
+<evaluation move = "f2e1" value = "mate 7" />
+</move>
+</analysis>
+</game>
+<game>
+<tags>
+<tag name = "Event" value = "Live Chess" />
+<tag name = "Site" value = "Chess.com" />
+<tag name = "Date" value = "2019.05.07" />
+<tag name = "Round" value = "-" />
+<tag name = "White" value = "chess_pawn00" />
+<tag name = "Black" value = "Tolya2" />
+<tag name = "Result" value = "0-1" />
+<tag name = "WhiteElo" value = "2219" />
+<tag name = "BlackElo" value = "2319" />
+<tag name = "TimeControl" value = "300" />
+<tag name = "Termination" value = "Tolya2 won by resignation" />
+<tag name = "variant" value = "Standard Chess" />
+<tag name = "EndTime" value = "9:13:57 PDT" />
+</tags>
+<moves>
+d2d4 d7d5 c2c4 d5c4 e2e4 g8f6 e4e5 f6d5 f1c4 b8c6 g1f3 c8g4 e1g1 e7e6 c1e3 f8e7 b1c3 c6b4 c3e4 d5b6 c4b3 b4d5 h2h3 g4h5 a1c1 c7c6 a2a3 e8g8 e4g3 h5g6 h3h4 e7h4 f3h4 d8h4 b3c2 d5e3 0-1
+</moves>
+<analysis engine = "Stockfish 8 64" bookDepth = "8" searchDepth = "20" variations = "3" >
+<move player = "white" >
+<played>f1c4</played>
+<evaluation move = "f1c4" value = "38" />
+<evaluation move = "g1f3" value = "-12" />
+<evaluation move = "b1c3" value = "-30" />
+</move>
+<move player = "black" >
+<played>b8c6</played>
+<evaluation move = "d5b6" value = "-31" />
+<evaluation move = "c7c5" value = "-54" />
+<evaluation move = "b8c6" value = "-56" />
+<evaluation move = "e7e6" value = "-64" />
+</move>
+<move player = "white" >
+<played>g1f3</played>
+<evaluation move = "b1c3" value = "64" />
+<evaluation move = "g1f3" value = "32" />
+<evaluation move = "g1e2" value = "25" />
+</move>
+<move player = "black" >
+<played>c8g4</played>
+<evaluation move = "c8f5" value = "-31" />
+<evaluation move = "c8g4" value = "-31" />
+<evaluation move = "d5b6" value = "-34" />
+</move>
+<move player = "white" >
+<played>e1g1</played>
+<evaluation move = "e1g1" value = "30" />
+<evaluation move = "b1c3" value = "28" />
+<evaluation move = "c4e2" value = "4" />
+</move>
+<move player = "black" >
+<played>e7e6</played>
+<evaluation move = "e7e6" value = "-30" />
+<evaluation move = "g4h5" value = "-39" />
+<evaluation move = "d8d7" value = "-52" />
+</move>
+<move player = "white" >
+<played>c1e3</played>
+<evaluation move = "b1c3" value = "24" />
+<evaluation move = "c4b5" value = "10" />
+<evaluation move = "c1e3" value = "0 U" />
+</move>
+<move player = "black" >
+<played>f8e7</played>
+<evaluation move = "f8b4" value = "0" />
+<evaluation move = "f8e7" value = "-29" />
+<evaluation move = "g4f5" value = "-29" />
+</move>
+<move player = "white" >
+<played>b1c3</played>
+<evaluation move = "h2h3" value = "28" />
+<evaluation move = "b1c3" value = "15" />
+<evaluation move = "c4e2" value = "4" />
+</move>
+<move player = "black" >
+<played>c6b4</played>
+<evaluation move = "c6b4" value = "-10" />
+<evaluation move = "d5e3" value = "-36" />
+<evaluation move = "e8g8" value = "-41" />
+</move>
+<move player = "white" >
+<played>c3e4</played>
+<evaluation move = "d1b3" value = "29" />
+<evaluation move = "a2a3" value = "16" />
+<evaluation move = "h2h3" value = "12" />
+<evaluation move = "c3e4" value = "-11" />
+</move>
+<move player = "black" >
+<played>d5b6</played>
+<evaluation move = "g4f5" value = "12" />
+<evaluation move = "d5b6" value = "-14" />
+<evaluation move = "g4h5" value = "-15" />
+</move>
+<move player = "white" >
+<played>c4b3</played>
+<evaluation move = "c4e2" value = "25" />
+<evaluation move = "c4b5" value = "20" />
+<evaluation move = "c4b3" value = "15" />
+</move>
+<move player = "black" >
+<played>b4d5</played>
+<evaluation move = "b4d5" value = "-19" />
+<evaluation move = "e8g8" value = "-21" />
+<evaluation move = "a7a5" value = "-26" />
+<evaluation move = "g4f5" value = "-28" />
+</move>
+<move player = "white" >
+<played>h2h3</played>
+<evaluation move = "e3d2" value = "22" />
+<evaluation move = "h2h3" value = "20" />
+<evaluation move = "a1c1" value = "18" />
+</move>
+<move player = "black" >
+<played>g4h5</played>
+<evaluation move = "g4f5" value = "-27" />
+<evaluation move = "g4h5" value = "-27" />
+<evaluation move = "d5e3" value = "-38" />
+</move>
+<move player = "white" >
+<played>a1c1</played>
+<evaluation move = "b3c2" value = "23" />
+<evaluation move = "a1c1" value = "20" />
+<evaluation move = "e3d2" value = "13" />
+</move>
+<move player = "black" >
+<played>c7c6</played>
+<evaluation move = "e8g8" value = "-22" />
+<evaluation move = "c7c6" value = "-25" />
+<evaluation move = "h7h6" value = "-37" />
+</move>
+<move player = "white" >
+<played>a2a3</played>
+<evaluation move = "a2a3" value = "33" />
+<evaluation move = "e4g3" value = "29" />
+<evaluation move = "b3c2" value = "25" />
+</move>
+<move player = "black" >
+<played>e8g8</played>
+<evaluation move = "a7a5" value = "-26" />
+<evaluation move = "h5g6" value = "-26" />
+<evaluation move = "e8g8" value = "-28" />
+</move>
+<move player = "white" >
+<played>e4g3</played>
+<evaluation move = "e4g3" value = "31" />
+<evaluation move = "d1e2" value = "19" />
+<evaluation move = "f1e1" value = "12" />
+</move>
+<move player = "black" >
+<played>h5g6</played>
+<evaluation move = "d5e3" value = "-7" />
+<evaluation move = "h5g6" value = "-14" />
+<evaluation move = "h5f3" value = "-21" />
+</move>
+<move player = "white" >
+<played>h3h4</played>
+<evaluation move = "b3c2" value = "31" />
+<evaluation move = "e3d2" value = "8" />
+<evaluation move = "f1e1" value = "-22" />
+<evaluation move = "h3h4" value = "-78" />
+</move>
+<move player = "black" >
+<played>e7h4</played>
+<evaluation move = "e7h4" value = "89" />
+<evaluation move = "d5e3" value = "85" />
+<evaluation move = "h7h6" value = "-11" />
+</move>
+<move player = "white" >
+<played>f3h4</played>
+<evaluation move = "g3e2" value = "-92" />
+<evaluation move = "e3d2" value = "-103" />
+<evaluation move = "f3h4" value = "-106" />
+</move>
+<move player = "black" >
+<played>d8h4</played>
+<evaluation move = "d8h4" value = "102" />
+<evaluation move = "d5e3" value = "84" />
+<evaluation move = "b6c4" value = "-293" />
+</move>
+<move player = "white" >
+<played>b3c2</played>
+<evaluation move = "g3e2" value = "-93" />
+<evaluation move = "b3d5" value = "-112" />
+<evaluation move = "d1d2" value = "-117" />
+<evaluation move = "b3c2" value = "-494" />
+</move>
+<move player = "black" >
+<played>d5e3</played>
+<evaluation move = "d5e3" value = "522" />
+<evaluation move = "g6c2" value = "508" />
+<evaluation move = "f7f5" value = "320" />
+</move>
+</analysis>
+</game>
+<game>
+<tags>
+<tag name = "Event" value = "Live Chess" />
+<tag name = "Site" value = "Chess.com" />
+<tag name = "Date" value = "2019.05.07" />
+<tag name = "Round" value = "-" />
+<tag name = "White" value = "chess_pawn00" />
+<tag name = "Black" value = "Arsen1976" />
+<tag name = "Result" value = "0-1" />
+<tag name = "WhiteElo" value = "2210" />
+<tag name = "BlackElo" value = "2194" />
+<tag name = "TimeControl" value = "300" />
+<tag name = "Termination" value = "Arsen1976 won by resignation" />
+<tag name = "variant" value = "Standard Chess" />
+<tag name = "EndTime" value = "9:20:34 PDT" />
+</tags>
+<moves>
+d2d4 d7d5 c2c4 d5c4 e2e4 b7b5 a2a4 c7c6 a4b5 c6b5 b2b3 e7e5 b3c4 f8b4 c1d2 d8d4 d2b4 d4a1 c4b5 c8e6 g1f3 b8d7 f1d3 f7f6 e1g1 e8f7 d3c4 e6c4 d1d7 f7g6 f3h4 g6h5 d7f5 g7g5 h4f3 c4f1 f3g5 f6g5 f5f7 h5h6 b4f8 a8f8 f7f8 h6g6 f8f5 g6g7 f5g5 g7f7 g5f5 g8f6 g1f1 a1b1 0-1
+</moves>
+<analysis engine = "Stockfish 8 64" bookDepth = "8" searchDepth = "20" variations = "3" >
+<move player = "white" >
+<played>a4b5</played>
+<evaluation move = "a4b5" value = "35" />
+<evaluation move = "g1f3" value = "31" />
+<evaluation move = "b2b3" value = "13" />
+</move>
+<move player = "black" >
+<played>c6b5</played>
+<evaluation move = "c6b5" value = "-40" />
+<evaluation move = "g8f6" value = "-138" />
+<evaluation move = "e7e6" value = "-168" />
+</move>
+<move player = "white" >
+<played>b2b3</played>
+<evaluation move = "b1c3" value = "42" />
+<evaluation move = "g1f3" value = "22" />
+<evaluation move = "b2b3" value = "13" />
+</move>
+<move player = "black" >
+<played>e7e5</played>
+<evaluation move = "e7e5" value = "-23" />
+<evaluation move = "g8f6" value = "-28" />
+<evaluation move = "b8c6" value = "-37" />
+</move>
+<move player = "white" >
+<played>b3c4</played>
+<evaluation move = "g1f3" value = "20" />
+<evaluation move = "d4e5" value = "-2" />
+<evaluation move = "b3c4" value = "-6" />
+</move>
+<move player = "black" >
+<played>f8b4</played>
+<evaluation move = "f8b4" value = "0" />
+<evaluation move = "b5b4" value = "-9" />
+<evaluation move = "d8d4" value = "-12" />
+</move>
+<move player = "white" >
+<played>c1d2</played>
+<evaluation move = "c1d2" value = "14" />
+<evaluation move = "b1d2" value = "-211" />
+<evaluation move = "e1e2" value = "-323" />
+</move>
+<move player = "black" >
+<played>d8d4</played>
+<evaluation move = "d8d4" value = "-10" />
+<evaluation move = "b4e7" value = "-91" />
+<evaluation move = "b4d2" value = "-102" />
+</move>
+<move player = "white" >
+<played>d2b4</played>
+<evaluation move = "d2b4" value = "9" />
+<evaluation move = "g1f3" value = "-44" />
+<evaluation move = "c4b5" value = "-126" />
+</move>
+<move player = "black" >
+<played>d4a1</played>
+<evaluation move = "d4a1" value = "0" />
+<evaluation move = "d4d1" value = "-277" />
+<evaluation move = "b8c6" value = "-382" />
+</move>
+<move player = "white" >
+<played>c4b5</played>
+<evaluation move = "c4b5" value = "3" />
+<evaluation move = "g1f3" value = "-63" />
+<evaluation move = "f1e2" value = "-112" />
+</move>
+<move player = "black" >
+<played>c8e6</played>
+<evaluation move = "c8g4" value = "0" />
+<evaluation move = "c8e6" value = "0" />
+<evaluation move = "a7a5" value = "-41" />
+</move>
+<move player = "white" >
+<played>g1f3</played>
+<evaluation move = "g1f3" value = "0" />
+<evaluation move = "f1d3" value = "-36" />
+<evaluation move = "b4c3" value = "-46" />
+</move>
+<move player = "black" >
+<played>b8d7</played>
+<evaluation move = "b8d7" value = "-4" />
+<evaluation move = "g8e7" value = "-49" />
+<evaluation move = "f7f6" value = "-79" />
+</move>
+<move player = "white" >
+<played>f1d3</played>
+<evaluation move = "f1e2" value = "0" />
+<evaluation move = "f1d3" value = "-27" />
+<evaluation move = "h2h3" value = "-90" />
+</move>
+<move player = "black" >
+<played>f7f6</played>
+<evaluation move = "g8e7" value = "10" />
+<evaluation move = "a1b2" value = "8" />
+<evaluation move = "a8c8" value = "0" />
+<evaluation move = "f7f6" value = "-20" />
+</move>
+<move player = "white" >
+<played>e1g1</played>
+<evaluation move = "e1g1" value = "52" />
+<evaluation move = "d1c2" value = "0" />
+<evaluation move = "d1c1" value = "-65" />
+</move>
+<move player = "black" >
+<played>e8f7</played>
+<evaluation move = "a1a2" value = "-23" />
+<evaluation move = "g8e7" value = "-34" />
+<evaluation move = "a1b2" value = "-41" />
+<evaluation move = "e8f7" value = "-760" />
+</move>
+<move player = "white" >
+<played>d3c4</played>
+<evaluation move = "d3c4" value = "790" />
+<evaluation move = "f3g5" value = "237" />
+<evaluation move = "d3e2" value = "195" />
+</move>
+<move player = "black" >
+<played>e6c4</played>
+<evaluation move = "e6c4" value = "-815" />
+<evaluation move = "d7f8" value = "-1566" />
+<evaluation move = "d7c5" value = "-1583" />
+</move>
+<move player = "white" >
+<played>d1d7</played>
+<evaluation move = "d1d7" value = "808" />
+<evaluation move = "d1d6" value = "-33" />
+<evaluation move = "b4c3" value = "-147" />
+</move>
+<move player = "black" >
+<played>f7g6</played>
+<evaluation move = "g8e7" value = "-825" />
+<evaluation move = "f7g6" value = "mate -11" />
+</move>
+<move player = "white" >
+<played>f3h4</played>
+<evaluation move = "f3h4" value = "mate 9" />
+<evaluation move = "h2h3" value = "1545" />
+<evaluation move = "g2g4" value = "1096" />
+</move>
+<move player = "black" >
+<played>g6h5</played>
+<evaluation move = "g6h5" value = "mate -8" />
+<evaluation move = "g6g5" value = "mate -6" />
+<evaluation move = "g6h6" value = "mate -5" />
+</move>
+<move player = "white" >
+<played>d7f5</played>
+<evaluation move = "d7d1" value = "mate 8" />
+<evaluation move = "d7h3" value = "mate 10" />
+<evaluation move = "h4f5" value = "mate 11" />
+<evaluation move = "d7f5" value = "239" />
+</move>
+<move player = "black" >
+<played>g7g5</played>
+<evaluation move = "g7g5" value = "-227" />
+<evaluation move = "h5h6" value = "-1036" />
+<evaluation move = "h5h4" value = "mate -1" />
+</move>
+<move player = "white" >
+<played>h4f3</played>
+<evaluation move = "h4f3" value = "391" />
+<evaluation move = "f1e1" value = "362" />
+<evaluation move = "b4d2" value = "274" />
+</move>
+<move player = "black" >
+<played>c4f1</played>
+<evaluation move = "a8e8" value = "-515" />
+<evaluation move = "c4e2" value = "-601" />
+<evaluation move = "a1a2" value = "-629" />
+<evaluation move = "c4f1" value = "-1034" />
+</move>
+<move player = "white" >
+<played>f3g5</played>
+<evaluation move = "f3g5" value = "1093" />
+<evaluation move = "b4d2" value = "49" />
+<evaluation move = "f5h3" value = "0" />
+</move>
+<move player = "black" >
+<played>f6g5</played>
+<evaluation move = "h5h6" value = "-1146" />
+<evaluation move = "g8h6" value = "mate -10" />
+<evaluation move = "f6g5" value = "mate -5" />
+</move>
+<move player = "white" >
+<played>f5f7</played>
+<evaluation move = "b4d2" value = "mate 5" />
+<evaluation move = "h2h4" value = "mate 6" />
+<evaluation move = "f5h3" value = "0" />
+<evaluation move = "f5f7" value = "0" />
+</move>
+<move player = "black" >
+<played>h5h6</played>
+<evaluation move = "h5h6" value = "0" />
+<evaluation move = "h5h4" value = "mate -3" />
+<evaluation move = "h5g4" value = "mate -2" />
+</move>
+<move player = "white" >
+<played>b4f8</played>
+<evaluation move = "f7e6" value = "0" />
+<evaluation move = "g2g4" value = "0" />
+<evaluation move = "h2h4" value = "0" />
+<evaluation move = "b4f8" value = "-680" />
+</move>
+<move player = "black" >
+<played>a8f8</played>
+<evaluation move = "a8f8" value = "717" />
+</move>
+<move player = "white" >
+<played>f7f8</played>
+<evaluation move = "f7f8" value = "-731" />
+<evaluation move = "f7b3" value = "-2056" />
+<evaluation move = "f7e6" value = "-2761" />
+</move>
+<move player = "black" >
+<played>h6g6</played>
+<evaluation move = "h6g6" value = "839" />
+<evaluation move = "h6h5" value = "0" />
+</move>
+<move player = "white" >
+<played>f8f5</played>
+<evaluation move = "h2h4" value = "-853" />
+<evaluation move = "f8f5" value = "-870" />
+<evaluation move = "f8e8" value = "-879" />
+</move>
+<move player = "black" >
+<played>g6g7</played>
+<evaluation move = "g6g7" value = "895" />
+<evaluation move = "g6h5" value = "0" />
+<evaluation move = "g6h6" value = "0" />
+</move>
+<move player = "white" >
+<played>f5g5</played>
+<evaluation move = "f5g5" value = "-889" />
+<evaluation move = "f5d7" value = "-941" />
+<evaluation move = "h2h4" value = "-1083" />
+</move>
+<move player = "black" >
+<played>g7f7</played>
+<evaluation move = "g7f7" value = "871" />
+<evaluation move = "g7f8" value = "788" />
+</move>
+<move player = "white" >
+<played>g5f5</played>
+<evaluation move = "g5h5" value = "-809" />
+<evaluation move = "h2h4" value = "-1185" />
+<evaluation move = "h2h3" value = "-1254" />
+<evaluation move = "g5f5" value = "-1612" />
+</move>
+<move player = "black" >
+<played>g8f6</played>
+<evaluation move = "g8f6" value = "1611" />
+<evaluation move = "f7e8" value = "835" />
+<evaluation move = "f7e7" value = "833" />
+</move>
+<move player = "white" >
+<played>g1f1</played>
+<evaluation move = "h2h3" value = "-1741" />
+<evaluation move = "h2h4" value = "-2226" />
+<evaluation move = "f2f4" value = "mate -12" />
+<evaluation move = "g1f1" value = "mate -7" />
+</move>
+<move player = "black" >
+<played>a1b1</played>
+<evaluation move = "a1b1" value = "mate 7" />
+<evaluation move = "h8d8" value = "1260" />
+<evaluation move = "h8g8" value = "1213" />
+</move>
+</analysis>
+</game>
+</gamelist>
